@@ -1,0 +1,27 @@
+
+{
+
+"alltweets" : [
+
+  {
+
+    "name": "dass",
+
+    "content": "This is test 2"
+  },
+  {
+
+    "name": "dolce",
+
+    "content": "This is second one"
+  },
+  {
+
+    "name": "nancy",
+
+    "content": "Last tweet"
+  }
+
+]
+
+}
